@@ -4,6 +4,7 @@ An excellent choice for Trix—a quick hit in a sticky situation is exactly wher
 ***
 
 ## A Wet Job in the Wet Quarter
+![Trix](../02_Player_Characters/Trix Rogue_img1.png)
 
 The city of **Silverhaven** is a bustling, chaotic metropolis, currently being soaked by a relentless, cold drizzle. You, **Trix** the Halfling Rogue, are currently perched on a slick, moss-covered rooftop in the **Wet Quarter**—a grimy dockside district known for its smuggled goods and whispered deals.
 
