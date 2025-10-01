@@ -1,12 +1,7 @@
-# DnD Campaigns
-
+# Campaigns:
 
 
 ## Shattered Crown Heist
-- [Current Context](Shattered_Crown_Heist_Campaign/00_CURRENT_SESSION_CONTEXT/A_CONTEXT_MASTER.md)
-- [Narrative](Shattered_Crown_Heist_Campaign/00_CURRENT_SESSION_CONTEXT/narrative.md)
-
-## New Shattered Crown Heist
 - **00 Admin**
   - Campaign_Primer.md
   - Campaign_Tracker.yaml

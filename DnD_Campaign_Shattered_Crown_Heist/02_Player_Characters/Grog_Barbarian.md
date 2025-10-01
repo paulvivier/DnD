@@ -34,8 +34,8 @@
 
 | Statistic | Value | Calculation / Notes |
 | :--- | :--- | :--- |
-| **Armor Class (AC)** | **13** | $10  (Base)} + 1  (DEX Mod)} + 2  (CON Mod) (Unarmored Defense) |
-| **Hit Points (HP)** | **14** | $12  (Barbarian Die)} + 2  (CON Mod) |
+| **Armor Class (AC)** | **13** | 10  (Base)} + 1  (DEX Mod)} + 2  (CON Mod) (Unarmored Defense) |
+| **Hit Points (HP)** | **14** | 12  (Barbarian Die)} + 2  (CON Mod) |
 | **Speed** | **30 ft.** | Base speed for a Half-Orc. |
 | **Initiative** | **+1** | +DEX Modifier |
 | **Proficiency Bonus**| **+2** | Applies to all proficient rolls. |
