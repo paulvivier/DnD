@@ -15,14 +15,14 @@
 ├── 01_Session_Logs
 │   ├── Session_001.md
 │   ├── Session_002.md
-│   └── Session_003.md
+│   └── [narrative.md](DnD_Campaign_Shattered_Crown_Heist/01_Session_Logs/narrative.md)
 ├── 02_Player_Characters
-│   ├── Fimble_Cleric.md
-│   ├── Grog_Barbarian.md
-│   ├── Silas_Ranger.md
-│   └── Trix_Rogue.md
+│   ├── [Fimble_Cleric.md](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Fimble_Cleric.md)
+│   ├── [Grog_Barbarian.md](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Grog_Barbarian.md)
+│   ├── [Silas_Ranger.md](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Silas_Ranger.md)
+│   └── [Trix_Rogue.md](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Trix_Rogue.md)
 ├── 03_NPCs
-│   └── All_NPCs.md
+│   └── [All_NPCs.md](DnD_Campaign_Shattered_Crown_Heist/03_NPCs/All_NPCs.md)
 ├── 04_Maps_and_Visuals
 │   ├── Dungeons
 │   ├── Items

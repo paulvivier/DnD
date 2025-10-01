@@ -1,10 +1,6 @@
-That's an excellent idea. Consolidating the information into fewer, highly legible markdown tables makes it perfect for quick in-chat reference.
-
-Here is the complete character breakdown for **Silas**, the Half-Elf Ranger, optimized for markdown viewing.
-
----
-
 ## Silas: The Clever Ranger (Level 1 Half-Elf)
+
+![Silas the Ranger][DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Silas_Ranger_img1.png]
 
 ### Summary & Context
 
