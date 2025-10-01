@@ -196,6 +196,7 @@ You are still perfectly hidden, five feet behind Spike. The three men are now lo
 Go for the Snatch
 
 ---
+![Trix Swipes Letters](Trix_swipes_letters.png)
 Trix has heard enough. The stakes are getting complicated, and a wizard's bodyguard is the last thing he wants to deal with. It's time to get the gold, or at least the information worth it.
 
 You press your advantage, using the tense silence between the arguing men. You move with expert precision, your hand snaking out from the shadows.
