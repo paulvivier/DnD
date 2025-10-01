@@ -1,6 +1,6 @@
 ## Trix: The Ambitious Trickster (Level 1 Stout Halfling)
 
-![Trix the Rogue](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Trix_Rogue_img2.png)
+![Trix the Rogue](Trix_Rogue_img2.png)
 
 
 ### Summary & Context

@@ -1,6 +1,6 @@
 ## Grog: The Gentle Giant (Level 1 Half-Orc)
 
-![Grog the Barbarian](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Grog_Barbarian_img1.png)
+![Grog the Barbarian](Grog_Barbarian_img1.png)
 
 ### Summary & Context
 
