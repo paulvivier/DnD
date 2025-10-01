@@ -14,7 +14,9 @@ The alley is loud with the sound of rain, but getting down there is tricky:
 Top-Pinned Summary Reminder: Trix is a Level 1 Stout Halfling Rogue with DEX +3 and Expertise in Stealth (+7). He wants the letters to fund his dream of magic.
 
 ---
+
 Trix looks around for any other non obvious way down.
+
 ---
 
 You have Trix pause, scanning the murky alley and the surrounding rooftops for a third, non-obvious route.
@@ -34,7 +36,9 @@ What does Trix do?
 3. Use the Drainpipe: Risk the loud, direct route and hope the rain covers the noise. This will require a Stealth (DEX) check.
 
 ---
+
 Let's use the Clothesline.
+
 ---
 Trix eyes the rickety wooden crates and decides they look like an invitation to a broken leg. The clothesline, though exposed, offers a more controlled descent.
 
@@ -48,6 +52,9 @@ Your Modifier: +3 (DEX)+2 (Proficiency)=+5
 Please make a 1d20+5 roll and tell me the result!
 
 (Note: While I suggested Sleight of Hand, Acrobatics is a better fit for a balancing act, and you are proficient in it, so we'll use that!)
+
 ---
+
 14
+
 ---
