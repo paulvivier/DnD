@@ -22,7 +22,7 @@
 | **Ideal** | **Justice.** The law is often flawed, but uncovering the truth is always worth the risk. |
 | **Bond** | My previous captain in the City Watch was murdered investigating a secret society, and I owe it to them to find the killer. |
 | **Flaw** | I'm extremely suspicious of anyone in a position of power and will automatically question their motives. |
-| **Weapons** | **Longbow** ($\mathbf{1d8}$ Piercing), **Shortsword** ($\mathbf{1d6}$ Piercing), and two **Daggers**. |
+| **Weapons** | **Longbow** (1d8 Piercing), **Shortsword** (1d6 Piercing), and two **Daggers**. |
 | **Armor** | **Scale Mail** (Medium Armor) and a **Shield**. |
 
 ---
@@ -31,10 +31,10 @@
 
 | Statistic | Value | Calculation / Notes |
 | :--- | :--- | :--- |
-| **Armor Class (AC)** | **16** | $14 \text{ (Scale Mail)} + 2 \text{ (DEX Mod)}$ |
-| **Hit Points (HP)** | **11** | $10 \text{ (Ranger Die)} + 1 \text{ (CON Mod)}$ |
+| **Armor Class (AC)** | **16** | 14  (Scale Mail) + 2  (DEX Mod) |
+| **Hit Points (HP)** | **11** | 10  (Ranger Die) + 1  (CON Mod) |
 | **Speed** | **30 ft.** | Base speed for a Half-Elf. |
-| **Initiative** | **+3** | $+\text{DEX Modifier}$ |
+| **Initiative** | **+3** | +DEX Modifier |
 | **Proficiency Bonus**| **+2** | Applies to all proficient rolls. |
 
 ---
@@ -58,14 +58,14 @@ Silas benefits from the Half-Elf's **Skill Versatility** (Persuasion and Insight
 
 | Skill / Saving Throw | Modifier | Source |
 | :--- | :--- | :--- |
-| **Acrobatics** | $+3$ | DEX Mod |
-| **Athletics** | $+1$ | Investigator Prof ($\text{STR + Prof}$) |
-| **Insight** | $\mathbf{+4}$ | Half-Elf Versatility Prof ($\text{WIS + Prof}$) |
-| **Investigation** | $\mathbf{+2}$ | Ranger Prof ($\text{INT + Prof}$) |
-| **Perception** | $\mathbf{+4}$ | Ranger Prof ($\text{WIS + Prof}$) |
-| **Persuasion** | $\mathbf{+4}$ | Half-Elf Versatility Prof ($\text{CHA + Prof}$) |
-| **Stealth** | $\mathbf{+5}$ | Ranger Prof ($\text{DEX + Prof}$) |
-| **Survival** | $\mathbf{+4}$ | Ranger Prof ($\text{WIS + Prof}$) |
+| **Acrobatics** | +3 | DEX Mod |
+| **Athletics** | +1 | Investigator Prof (STR + Prof) |
+| **Insight** | +4 | Half-Elf Versatility Prof (WIS + Prof) |
+| **Investigation** | +2 | Ranger Prof (INT + Prof) |
+| **Perception** | +4 | Ranger Prof (WIS + Prof) |
+| **Persuasion** | +4 | Half-Elf Versatility Prof (CHA + Prof) |
+| **Stealth** | +5 | Ranger Prof (DEX + Prof) |
+| **Survival** | +4 | Ranger Prof (WIS + Prof) |
 
 ---
 

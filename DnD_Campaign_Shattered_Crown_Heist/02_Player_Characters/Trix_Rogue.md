@@ -17,14 +17,14 @@
 
 | Category | Detail |
 | :--- | :--- |
-| **Class Feature** | **Sneak Attack ($\mathbf{1d6}$):** Deal extra damage once per turn against a creature you have advantage against, or if an ally is within 5 feet of them. **Expertise:** Double proficiency bonus on **Sleight of Hand** and **Stealth**. |
+| **Class Feature** | **Sneak Attack (1d6):** Deal extra damage once per turn against a creature you have advantage against, or if an ally is within 5 feet of them. **Expertise:** Double proficiency bonus on **Sleight of Hand** and **Stealth**. |
 | **Race Feature** | **Lucky:** Reroll a 1 on any attack, ability check, or saving throw. **Brave:** Advantage on saving throws vs. Frightened. |
 | **Background Feature** | **City Secrets (Urchin):** You know the hidden paths and back alleys of any settlement and can always find a place to hide or recuperate among the poor. |
 | **Personality Trait**| I'd rather make a new friend than a new enemy. I use my charm to defuse tense situations. |
 | **Ideal** | **Freedom.** Everyone should be free to pursue their own destiny and ambition, even if it means breaking a few rules. |
 | **Bond** | I owe a debt to the kind, elderly **Innkeeper** who didn't turn me in when I was caught stealing bread. |
 | **Flaw** | I can't help but pocket anything shiny I see. I lack academic patience. |
-| **Weapons** | **Rapier** ($\mathbf{1d8}$ Piercing, Finesse), **Shortbow** ($\mathbf{1d6}$ Piercing), two **Daggers**. |
+| **Weapons** | **Rapier** (1d8 Piercing, Finesse), **Shortbow** (1d6 Piercing), two **Daggers**. |
 | **Armor** | **Leather Armor** (Light Armor). |
 
 ---
@@ -33,10 +33,10 @@
 
 | Statistic | Value | Calculation / Notes |
 | :--- | :--- | :--- |
-| **Armor Class (AC)** | **14** | $11 \text{ (Leather Armor)} + 3 \text{ (DEX Mod)}$ |
-| **Hit Points (HP)** | **10** | $8 \text{ (Rogue Die)} + 2 \text{ (CON Mod)}$ |
+| **Armor Class (AC)** | **14** | 11  (Leather Armor) + 3  (DEX Mod) |
+| **Hit Points (HP)** | **10** | 8  (Rogue Die) + 2  (CON Mod) |
 | **Speed** | **25 ft.** | Base speed for a Halfling. |
-| **Initiative** | **+3** | $+\text{DEX Modifier}$ |
+| **Initiative** | **+3** | +DEX Modifier |
 | **Proficiency Bonus**| **+2** | Applies to all proficient rolls. |
 
 ---
@@ -60,13 +60,13 @@ Trix benefits from **Expertise** in two key rogue skills (**Sleight of Hand** an
 
 | Skill / Saving Throw | Modifier | Source |
 | :--- | :--- | :--- |
-| **Acrobatics** | $+5$ | Rogue Prof ($\text{DEX + Prof}$) |
-| **Deception** | $+1$ | CHA Mod |
-| **Insight** | $+1$ | WIS Mod |
-| **Investigation** | $\mathbf{+1}$ | Rogue Prof ($\text{INT + Prof}$) |
-| **Perception** | $\mathbf{+3}$ | Rogue Prof ($\text{WIS + Prof}$) |
-| **Sleight of Hand** | $\mathbf{+7}$ | Rogue **Expertise** ($\text{DEX + Double Prof}$) |
-| **Stealth** | $\mathbf{+7}$ | Rogue **Expertise** ($\text{DEX + Double Prof}$) |
-| **Thieves' Tools** | $\mathbf{+5}$ | Rogue Prof ($\text{DEX + Prof}$) |
+| **Acrobatics** | +5 | Rogue Prof (DEX + Prof) |
+| **Deception** | +1 | CHA Mod |
+| **Insight** | +1 | WIS Mod |
+| **Investigation** | +1 | Rogue Prof (INT + Prof) |
+| **Perception** | +3 | Rogue Prof (WIS + Prof) |
+| **Sleight of Hand** | +7 | Rogue **Expertise** (DEX + Double Prof) |
+| **Stealth** | +7 | Rogue **Expertise** (DEX + Double Prof) |
+| **Thieves' Tools** | +5 | Rogue Prof (DEX + Prof) |
 
 ---

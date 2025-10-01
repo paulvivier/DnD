@@ -18,14 +18,14 @@
 
 | Category | Detail |
 | :--- | :--- |
-| **Class Feature** | **Rage:** As a bonus action, Grog can enter a rage. While raging, he has advantage on Strength checks and saves, gets a damage bonus to melee attacks ($\mathbf{+2}$ at Lvl 1), and resistance to slashing, piercing, and bludgeoning damage. |
+| **Class Feature** | **Rage:** As a bonus action, Grog can enter a rage. While raging, he has advantage on Strength checks and saves, gets a damage bonus to melee attacks (+2 at Lvl 1), and resistance to slashing, piercing, and bludgeoning damage. |
 | **Race Feature** | **Savage Attacks:** Roll one additional weapon damage die when scoring a critical hit with a melee weapon. **Relentless Endurance:** Once per long rest, Grog drops to 1 HP instead of 0 HP. |
 | **Background Feature** | **Wanderer (Outlander):** Grog has an excellent memory for maps and geography. He can accurately recall the layout of any wilderness or natural terrain he has travelled. |
 | **Personality Trait**| I'm a good listener. I rarely speak unless I have something important to say, but I'm fiercely attentive to those I protect. |
 | **Ideal** | **Protection.** Those who cannot defend themselves deserve to have someone stand between them and danger. |
 | **Bond** | I once rescued a small, strangely ornate **bear cub** that I still carry with me in a pouch. I must keep it safe. |
 | **Flaw** | I don't understand city customs or complex social rules, and I sometimes break things without meaning to. |
-| **Weapons** | **Great Axe** ($\mathbf{1d12}$ Slashing, Heavy, Two-Handed), two **Handaxes** ($\mathbf{1d6}$ Slashing, Light, Thrown). |
+| **Weapons** | **Great Axe** (1d12 Slashing, Heavy, Two-Handed), two **Handaxes** (1d6 Slashing, Light, Thrown). |
 | **Armor** | None (Relies on **Unarmored Defense**). |
 
 ---
@@ -34,10 +34,10 @@
 
 | Statistic | Value | Calculation / Notes |
 | :--- | :--- | :--- |
-| **Armor Class (AC)** | **13** | $10 \text{ (Base)} + 1 \text{ (DEX Mod)} + 2 \text{ (CON Mod)}$ (Unarmored Defense) |
-| **Hit Points (HP)** | **14** | $12 \text{ (Barbarian Die)} + 2 \text{ (CON Mod)}$ |
+| **Armor Class (AC)** | **13** | $10  (Base)} + 1  (DEX Mod)} + 2  (CON Mod) (Unarmored Defense) |
+| **Hit Points (HP)** | **14** | $12  (Barbarian Die)} + 2  (CON Mod) |
 | **Speed** | **30 ft.** | Base speed for a Half-Orc. |
-| **Initiative** | **+1** | $+\text{DEX Modifier}$ |
+| **Initiative** | **+1** | +DEX Modifier |
 | **Proficiency Bonus**| **+2** | Applies to all proficient rolls. |
 
 ---
@@ -61,10 +61,10 @@ Grog focuses on physical and natural skills, gaining proficiency in **Athletics*
 
 | Skill / Saving Throw | Modifier | Source |
 | :--- | :--- | :--- |
-| **Athletics** | $\mathbf{+5}$ | Outlander Prof ($\text{STR + Prof}$) |
-| **Survival** | $\mathbf{+3}$ | Outlander Prof ($\text{WIS + Prof}$) |
-| **Animal Handling** | $+1$ | WIS Mod |
-| **Intimidation** | $+0$ | CHA Mod |
-| **Tools** | Musical Instrument (Horn) | $\mathbf{+2}$ | Outlander Prof |
+| **Athletics** | +5 | Outlander Prof (STR + Prof) |
+| **Survival** | +3 | Outlander Prof (WIS + Prof) |
+| **Animal Handling** | +1 | WIS Mod |
+| **Intimidation** | +0 | CHA Mod |
+| **Tools** | Musical Instrument (Horn) | +2 | Outlander Prof |
 
 ---

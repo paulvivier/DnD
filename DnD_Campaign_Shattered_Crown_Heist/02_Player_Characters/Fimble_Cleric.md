@@ -27,7 +27,7 @@
 | **Ideal** | **Redemption.** I use deceit and trickery to expose the real liars in the world, believing everyone deserves a chance to mend their ways. |
 | **Bond** | A fellow trickster and rogue once covered for me when I pulled a con that went horribly wrong. |
 | **Flaw** | If a lie or trick is good enough, I'll believe it, which sometimes makes me gullible to those who are better than I am. |
-| **Weapons** | **Mace** ($\mathbf{1d6}$ Bludgeoning), **Light Crossbow** ($\mathbf{1d8}$ Piercing). |
+| **Weapons** | **Mace** (1d6 Bludgeoning), **Light Crossbow** (1d8 Piercing). |
 | **Armor** | **Chain Mail** (Medium Armor) and a **Shield**. |
 
 ---
@@ -36,10 +36,10 @@
 
 | Statistic | Value | Calculation / Notes |
 | :--- | :--- | :--- |
-| **Armor Class (AC)** | **17** | $16 \text{ (Chain Mail + Shield)} + 1 \text{ (Max DEX bonus for Medium Armor)}$ |
-| **Hit Points (HP)** | **9** | $8 \text{ (Cleric Die)} + 1 \text{ (CON Mod)}$ |
+| **Armor Class (AC)** | **17** | 16 (Chain Mail + Shield) + 1 (Max DEX bonus for Medium Armor) |
+| **Hit Points (HP)** | **9** | 8 (Cleric Die) + 1 (CON Mod) |
 | **Speed** | **25 ft.** | Base speed for a Gnome. |
-| **Initiative** | **+2** | $+\text{DEX Modifier}$ |
+| **Initiative** | **+2** | +DEX Modifier |
 | **Proficiency Bonus**| **+2** | Applies to all proficient rolls. |
 
 ---
@@ -63,11 +63,11 @@ Fimble uses her background (**Charlatan**) to gain proficiency in skills that al
 
 | Skill / Saving Throw | Modifier | Source |
 | :--- | :--- | :--- |
-| **Deception** | $\mathbf{+2}$ | Charlatan Prof ($\text{CHA + Prof}$) |
-| **Sleight of Hand** | $\mathbf{+4}$ | Charlatan Prof ($\text{DEX + Prof}$) |
-| **Religion** | $\mathbf{+4}$ | Cleric Prof ($\text{INT + Prof}$) |
-| **Healing** (Medicine) | $\mathbf{+4}$ | Cleric Prof ($\text{WIS + Prof}$) |
-| **Disguise Kit** | $\mathbf{+2}$ | Charlatan Prof ($\text{INT + Prof}$) |
-| **Forgery Kit** | $\mathbf{+2}$ | Charlatan Prof ($\text{INT + Prof}$) |
+| **Deception** | +2 | Charlatan Prof (CHA + Prof) |
+| **Sleight of Hand** | +4 | Charlatan Prof (DEX + Prof) |
+| **Religion** | +4 | Cleric Prof (INT + Prof) |
+| **Healing** (Medicine) | +4 | Cleric Prof (WIS + Prof) |
+| **Disguise Kit** | +2 | Charlatan Prof (INT + Prof) |
+| **Forgery Kit** | +2 | Charlatan Prof (INT + Prof) |
 
 ---
