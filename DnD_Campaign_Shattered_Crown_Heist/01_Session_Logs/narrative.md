@@ -504,6 +504,7 @@ Here is the updated context for your **`A_CONTEXT_TEMPLATE_MASTER.txt`** file, w
 
 We are now ready to begin the **Shattered Crown Heist**\!
 
+![Silas and Trix](Silas_meets_Trix.png)
 **The Scene:** Trix is still huddled in the alcove, the broken seal of the Duke's letter in his hand. He knows he needs to move fast. Just as he goes to slip the paper back into his coat, a quiet voice cuts through the drizzle from the alleyway:
 
 > "Hold still, little friend. Whatever is in those letters, I have a hunch it's what killed my captain. Let's talk about the truth before those thugs catch your scent."
