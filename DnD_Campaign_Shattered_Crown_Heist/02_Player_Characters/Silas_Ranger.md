@@ -1,6 +1,6 @@
 ## Silas: The Clever Ranger (Level 1 Half-Elf)
 
-![Silas the Ranger][DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Silas_Ranger_img1.png]
+![Silas the Ranger](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Silas_Ranger_img1.png)
 
 ### Summary & Context
 

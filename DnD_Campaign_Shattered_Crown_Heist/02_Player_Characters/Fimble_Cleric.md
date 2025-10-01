@@ -1,6 +1,7 @@
 ## Fimble: The Mischievous Healer (Level 1 Forest Gnome)
 
-![Fimble the Cleric][DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Fimble_Cleric_img1.png]
+![Fimble the Cleric](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Fimble_Cleric_img1.png)
+
 
 ### Summary & Context
 
