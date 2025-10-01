@@ -5,3 +5,37 @@
 ## Shattered Crown Heist
 - [Current Context](Shattered_Crown_Heist_Campaign/00_CURRENT_SESSION_CONTEXT/A_CONTEXT_MASTER.md)
 - [Narrative](Shattered_Crown_Heist_Campaign/00_CURRENT_SESSION_CONTEXT/narrative.md)
+
+## New Shattered Crown Heist
+├── 00_Admin
+│   ├── Campaign_Primer.md
+│   ├── Campaign_Tracker.yaml
+│   ├── Prompt_Template.md
+│   └── Session_Log_Index.md
+├── 01_Session_Logs
+│   ├── Session_001.md
+│   ├── Session_002.md
+│   └── Session_003.md
+├── 02_Player_Characters
+│   ├── Fimble_Cleric.md
+│   ├── Grog_Barbarian.md
+│   ├── Silas_Ranger.md
+│   └── Trix_Rogue.md
+├── 03_NPCs
+│   └── All_NPCs.md
+├── 04_Maps_and_Visuals
+│   ├── Dungeons
+│   ├── Items
+│   ├── Overworld
+│   └── Towns
+├── 05_Rules_and_References
+│   ├── ADnD_HouseRules.md
+│   ├── Magic_Items_List.md
+│   └── QuickRef_Combat_Tables.md
+└── 99_Archive
+    ├── Old_Characters
+    ├── Retired_NPCs
+    │   └── Retired_NPCs.md
+    └── Unused_Maps
+
+#### Use: { printf '```\n'; tree -a DnD_Campaign_Shattered_Crown_Heist; printf '\n```'; }
