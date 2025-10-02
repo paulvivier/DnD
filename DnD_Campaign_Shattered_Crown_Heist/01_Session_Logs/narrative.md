@@ -2,7 +2,7 @@
 An excellent choice for Trix—a quick hit in a sticky situation is exactly where a rogue thrives!
 
 ***
-https://paulvivier.github.io/DnD/DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Trix_Rogue_img2.png
+
 ## A Wet Job in the Wet Quarter
 ![Trix](../02_Player_Characters/Trix_Rogue_img1.png)
 
