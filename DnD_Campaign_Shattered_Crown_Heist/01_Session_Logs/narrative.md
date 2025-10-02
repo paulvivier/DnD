@@ -35,7 +35,7 @@ The rickety drainpipe and the swaying clothesline are clear risks, but Trix trus
 
 You focus your gaze on the roof edge just a few feet away from the fish market. You notice something promising: a series of **narrow, empty wooden crates** stacked precariously against the wall near the back door. They look like they were meant to be hauled up to a storage loft, but the rope is currently frayed and hanging loose.
 
-If Trix can make a small jump, he could potentially use the crates as unstable stepping stones down the last $\text{15 feet}$ to the ground, positioning himself right behind the three men. The advantage is that this route is likely quieter than the metal drainpipe.
+If Trix can make a small jump, he could potentially use the crates as unstable stepping stones down the last 15 feet to the ground, positioning himself right behind the three men. The advantage is that this route is likely quieter than the metal drainpipe.
 
 ***
 
@@ -58,9 +58,9 @@ It’s about a 20-foot stretch of frayed, wet rope strung between the two buildi
 
 Roll an **Acrobatics (DEX)** check to balance on the swaying, wet rope. You are proficient in Acrobatics.
 
-**Your Modifier:** $+3 \text{ (DEX)} + 2 \text{ (Proficiency)} = \mathbf{+5}$
+**Your Modifier:** +3  (DEX)+ 2  (Proficiency)= +5
 
-**Please make a $\mathbf{1d20} + \mathbf{5}$ roll and tell me the result!**
+**Please make a 1d20+ 5 roll and tell me the result!**
 
 *(Note: While I suggested Sleight of Hand, Acrobatics is a better fit for a balancing act, and you are proficient in it, so we'll use that!)*
 
@@ -107,9 +107,9 @@ You flatten Trix low on the wet stone, then slowly begin to lower himself over t
 
 You need to make a difficult **Stealth (DEX)** check to execute this maneuver flawlessly.
 
-**Your Modifier:** $+3 \text{ (DEX)} + 4 \text{ (Expertise Double Prof.)} = \mathbf{+7}$
+**Your Modifier:** +3  (DEX)+ 4  (Expertise Double Prof.)= +7
 
-**Please make a $\mathbf{1d20} + \mathbf{7}$ roll and tell me the result!**
+**Please make a 1d20+ 7 roll and tell me the result!**
 ---
 17
 
@@ -148,9 +148,9 @@ Trix holds his breath, flattening himself against the cold, wet wall. The three 
 
 You strain your ears to pick out the details of the argument over the steady patter of the rain. This requires a **Perception (WIS)** check.
 
-**Your Modifier:** $+1 \text{ (WIS)} + 2 \text{ (Proficiency)} = \mathbf{+3}$
+**Your Modifier:** +1  (WIS)+ 2  (Proficiency)= +3
 
-**Please make a $\mathbf{1d20} + \mathbf{3}$ roll and tell me the result!**
+**Please make a 1d20+ 3 roll and tell me the result!**
 
 ---
 
@@ -205,12 +205,12 @@ You press your advantage, using the tense silence between the arguing men. You m
 
 This is a **Sleight of Hand (DEX) check**, opposed by Spike's awareness.
 
-* **Trix's Sleight of Hand Modifier (Expertise):** $+3 \text{ (DEX)} + 4 \text{ (Double Prof.)} = \mathbf{+7}$
-* **Spike's Passive Perception (The DC):** $\mathbf{10}$
+* **Trix's Sleight of Hand Modifier (Expertise):** +3  (DEX)+ 4  (Double Prof.)= +7
+* **Spike's Passive Perception (The DC):** 10
 
-You need to roll a $\mathbf{1d20} + \mathbf{7}$ and get a result of **10 or higher**.
+You need to roll a 1d20+ 7 and get a result of **10 or higher**.
 
-**Please make the $\mathbf{1d20} + \mathbf{7}$ roll for Trix's Sleight of Hand!**
+**Please make the 1d20+ 7 roll for Trix's Sleight of Hand!**
 
 ---
 11
@@ -254,11 +254,11 @@ You spot the perfect target: A small, rickety **metal oil lamp** hanging by a ru
 
 To toss the stone accurately and create a clean distraction, this will require a Ranged Attack roll, using your Dexterity.
 
-* **Trix's Ranged Attack Modifier:** $+\text{DEX Modifier} + \text{Proficiency Bonus} = +3 + 2 = \mathbf{+5}$
+* **Trix's Ranged Attack Modifier:** +DEX Modifier+ Proficiency Bonus= +3 + 2 = +5
 
 The lamp is a small, inanimate target, so let's set the **Difficulty Class (DC)** to hit it at **12**.
 
-**Please make a $\mathbf{1d20} + \mathbf{5}$ attack roll and tell me the result!**
+**Please make a 1d20+ 5 attack roll and tell me the result!**
 
 ---
 
@@ -370,9 +370,9 @@ Trix holds the thick packet of sealed letters close in the dim light of the door
 
 You decide to inspect the seals and the paper carefully, looking for anything that might indicate a trap or a clue. This requires an **Investigation (INT)** check.
 
-**Trix's Investigation Modifier:** $-1 \text{ (INT)} + 2 \text{ (Proficiency)} = \mathbf{+1}$
+**Trix's Investigation Modifier:** -1  (INT)+ 2  (Proficiency)= +1
 
-**Please make a $\mathbf{1d20} + \mathbf{1}$ roll and tell me the result!**
+**Please make a 1d20+ 1 roll and tell me the result!**
 
 ---
 
@@ -382,7 +382,7 @@ You decide to inspect the seals and the paper carefully, looking for anything th
 
 ### Investigation Check Result
 
-You rolled an $\mathbf{11}$. Adding Trix's Investigation modifier of **+1** gives a total of **12**.
+You rolled an 11. Adding Trix's Investigation modifier of **+1** gives a total of **12**.
 
 Trix is careful and methodical, inspecting the expensive red wax seals and the Duke's distinctive **griffin sigil**. Your expertise in small, valuable objects serves you well.
 
@@ -419,9 +419,9 @@ You will attempt to use your Thieves' Tools to carefully heat and steam the wax 
 
 This requires a **Dexterity check** using your proficiency with Thieves' Tools. The inherent difficulty of the authentic ducal seal makes this a **DC 15** challenge.
 
-* **Trix's Thieves' Tools Modifier:** $+3 \text{ (DEX)} + 2 \text{ (Proficiency)} = \mathbf{+5}$
+* **Trix's Thieves' Tools Modifier:** +3  (DEX)+ 2  (Proficiency)= +5
 
-**Please give me the raw $\mathbf{1d20}$ roll for this check!**
+**Please give me the raw 1d20 roll for this check!**
 
 ---
 
@@ -429,7 +429,7 @@ Oh boy. It's only 3
 
 ---
 
-You roll a $\mathbf{3}$!
+You roll a 3!
 
 Adding Trix's Thieves' Tools modifier of **+5** gives you a total of **8**.
 

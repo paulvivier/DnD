@@ -8,9 +8,9 @@
   - Prompt_Template.md
   - Session_Log_Index.md
 - **01 Session_Logs**
+  - [narrative.md](DnD_Campaign_Shattered_Crown_Heist/01_Session_Logs/narrative.md)
   - Session_001.md
   - Session_002.md
-  - [narrative.md](DnD_Campaign_Shattered_Crown_Heist/01_Session_Logs/narrative.md)
 - **02 Player_Characters**
   - [Fimble_Cleric.md](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Fimble_Cleric.md)
   - [Grog_Barbarian.md](DnD_Campaign_Shattered_Crown_Heist/02_Player_Characters/Grog_Barbarian.md)
