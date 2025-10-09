@@ -543,3 +543,265 @@ The letter revealed the following critical information, which Trix secured just 
 **Silas** steps out of the shadows, his longbow resting easily in his hand, his eyes calm but sharp.
 
 **What does Trix do?**
+
+---
+
+Okay, change of plans. Silas will have to leave the scene at the moment, and I want to bring Grog in. Do you remember Grog, or do I need to paste his details? The way I'm suggesting is that Trix will acknowledge Silas, but run away for the moment. How should we introduce Grog?
+
+---
+
+This is an exciting shift! Switching the immediate challenge is great for pacing.
+
+I absolutely remember **Grog**, the gentle Half-Orc Barbarian, and have his full profile stored and ready. We can introduce him immediately.
+
+Here is how Trix acknowledges Silas and escapes, leading directly into the introduction of Grog:
+
+---
+
+### The Scene Continues: Trix Escapes
+
+Trix’s eyes dart from Silas’s calm, weapon-ready stance to the broken seal in his hand. The letter's contents are too explosive to risk a chat right now, especially with pursuit imminent.
+
+> Trix keeps his voice low and fast. "Captain's killer? Good to know! But if we stand here talking about it, the Duke's *actual* agents will be using *our* faces to scrub the alley stones. Your hunch is right, mine says run."
+
+Trix snaps the letter packet into his coat and, with the quick, darting movement of a halfling, he pushes off the alcove wall, not running down the main alley (where Silas expects him to go), but cutting sharply across the narrow street toward the main plaza of the Temple District.
+
+Silas, surprised by the sheer speed of the small rogue, doesn't immediately pursue, instead taking a moment to scan for threats Trix mentioned.
+
+### Grog's Introduction
+
+Trix bursts out of the side alley, into the broad, rain-slicked **Temple Square**. The square is usually busy, but the late hour and rain have thinned the crowd to a few cloaked figures and a handful of late-night vendors.
+
+Trix immediately collides with an obstacle: a mountain of a man who is standing still, his massive back to Trix. This man, a **Half-Orc**, is staring intently, and rather sadly, at a decorative, waist-high stone planter that he has somehow managed to **crack clean in half**. He seems completely oblivious to Trix's presence or the surrounding danger.
+
+This is **Grog**.
+
+Trix is now pressed against the back of an enormous, powerful figure. Grog's wide stance and massive frame completely block the halfling from view of the alley he just fled.
+
+**What does Trix do next?**
+
+1.  **Recruit:** Quickly whisper to Grog, "Guard duty! The guards are coming for the sacred plant! Protect it!" (This would require a fast **Deception (CHA) check**).
+2.  **Hide:** Use Grog's massive bulk as immediate cover and try to melt into the larger shadows of the Temple Square before Grog notices him. (This would require a **Stealth (DEX) check**).
+3.  **Dash:** Immediately slip out from behind Grog and bolt across the Temple Square, relying on his speed to outpace any pursuers (risking Grog's sudden attention).
+
+---
+
+Let's go with Recruit option. Also, Grog will be played by another person that is with me, so it would be appropriate to ask us both for behavioral decisions, or as a party (if he joins Trix).
+
+---
+
+That's an excellent choice, Trix! Using your quick wit and a tall tale to weaponize the Barbarian is perfectly in character. And absolutely—since Grog has entered the scene, all subsequent narrative choices that affect both characters will be presented to you as a party.
+
+### Recruiting Grog
+
+Trix acts instantly, recognizing Grog's bulk as the perfect shield. You press tight against the half-orc's back, your voice a frantic, conspiratorial whisper, using Grog's exposed **Ideal (Protection)** against him.
+
+> "Hey! Big friend! I'm the lookout! The City Watch is about to round the corner, and they're coming for that... that **sacred plant**! They want to confiscate it! You've got to protect it! Right now!"
+
+To convince Grog that this sudden order is real and important, Trix needs to be persuasive. This is a **Deception (CHA) check**.
+
+* **Trix's Deception Modifier:** **+1** (CHA Mod)
+* **The Difficulty Class (DC):** **10**. Since Grog is not city-smart (INT 8, WIS 12) and is preoccupied, he's only moderately difficult to deceive.
+
+**Please give me the raw 1d20 roll for Trix's Deception check!**
+---
+
+Trix rolls a raw 12
+---
+
+A raw roll of 12, plus Trix's Deception modifier of **+1**, results in a total of **13**.
+
+This beats the DC 10! Trix's frantic whisper and Charisma are convincing enough to sway the simple-minded Barbarian.
+
+### Grog Acts
+
+Grog, focused on the tragic, cracked planter, blinks his eyes and processes the frantic warning. The idea of someone stealing a **sacred plant** immediately triggers his **Ideal of Protection**. He may not know what a "sacred plant" is, but he knows he must defend it.
+
+> Grog lets out a low, guttural growl, his gaze snapping from the cracked stone to the mouth of the alley where Trix came from. "Steal? No. We protect."
+
+Grog immediately plants his feet, shifting his massive frame. He secures his Great Axe in one hand and uses his other hand to roughly, but not maliciously, hold Trix securely pinned behind his thigh, keeping the Halfling out of sight.
+
+**Trix is now hidden behind Grog.**
+
+Just as Grog takes his protective stance, you hear the pounding of boots getting closer. Spike and one of the thugs, having failed to find the source of the **CLANG**, are now backtracking and are quickly rounding the corner of the alley, heading directly for the Temple Square.
+
+### Party Status
+
+* **Trix:** Hidden behind Grog. (Cannot be targeted or seen by Spike/Thug.)
+* **Grog:** Standing in the open, focused on the alley entrance, armed.
+* **Spike & Thug:** Approaching, about 40 feet away, looking for a small, stealthy thief.
+* **Silas:** Still in the side alley, observing the scene.
+
+---
+
+## Party Decision: Trix & Grog
+
+You are now a team facing immediate danger. The pursuers are focused on finding Trix, but Grog's sudden, suspicious presence will certainly draw their attention.
+
+**What is the party's action for the start of this encounter?**
+
+1.  **Grog: Intimidate.** Grog steps forward, brandishing his Great Axe to scare them off and hold them back, while Trix prepares a follow-up action. (This requires an **Intimidation (CHA) check** from Grog).
+2.  **Trix: Setup/Distraction.** Trix uses Grog's cover to ready his shortbow and fire a warning shot, or throw a dagger at a nearby object to cause another distraction.
+3.  **Trix & Grog: Flee.** Trix whispers instructions to Grog, and the two attempt to run across the large, open Temple Square to reach cover near the main Cathedral.
+
+---
+We'll go with Grog being the Intimidator if Spike, thug or if the Captain and the Brute were to come along. Grog utters "Stay away from this plant" if provoked.
+
+---
+
+That's an excellent plan. Grog is positioned perfectly to draw all the attention, and his simple, protective stance plays right into his character.
+
+As the party prepares, the pursuers round the corner.
+
+### The Encounter Begins
+
+Spike and one of the thugs—a muscular brute carrying a heavy sack of tools—come jogging around the corner of the alley, their eyes wide and scanning for a tiny Halfling. They don't see Trix, but they instantly see **Grog**.
+
+Grog stands like a monument carved from granite. The huge Half-Orc is planted firmly in the square, his back to the broken planter (and the hiding Trix), his massive Great Axe held casually, but clearly ready, across his body.
+
+The thugs skid to a halt, completely thrown off. They were hunting a rogue, not a wall of muscle.
+
+> **Spike:** (Squinting through the rain) "Hey! What in the blazes are you doing? Move it, you ox! We're looking for a thief!"
+
+Grog locks his intense gaze on Spike and the thug. He doesn't move, but his voice rumbles like stone grinding against stone, fully executing your instruction.
+
+> **Grog:** "**Stay away from this plant.**"
+
+### Grog's Intimidation
+
+Grog's sheer size and the implied threat of the Great Axe are your primary weapon here. This is a **Charisma (Intimidation) check** from Grog.
+
+* **Grog's Intimidation Modifier:** **+0** (CHA Mod, not proficient)
+* **The Difficulty Class (DC):** **14**. Spike and his thug are tough individuals, not easily scared by simple muscle, so this is a moderate challenge.
+
+**Please give me the raw 1d20 roll for Grog's Intimidation check!**
+
+---
+
+Grog rolls a 15
+---
+
+A raw roll of 15, plus Grog's Intimidation modifier of **+0**, results in a total of **15**.
+
+This easily beats the **DC 14**!
+
+### Intimidation Success
+
+Grog's sheer size and the primal, protective rage in his eyes are profoundly unsettling. The casual way he handles the Great Axe, combined with the strange, deadpan line about the "plant," makes Spike realize this isn't a casual brawl—this is a genuine lunatic, and possibly a powerful one.
+
+Spike's face, already tight with rain and stress, twists further in frustration.
+
+> **Spike:** (Backing up a step, waving his hand) "Forget it! Forget the bloody plant! That's not what we're here for! Come on, Jax! Leave the monster to his weeds. He's not the Halfling. Let's check the roofline!"
+
+Spike and the thug Jax immediately abandon the confrontation. They turn and jog back the way they came, their focus now shifting to searching the rooftops and windows, looking for the *small, sneaky* target they were originally hunting.
+
+The coast is clear for the moment! Grog's intimidating presence has successfully diverted the immediate threat.
+
+---
+
+## Party Status Update
+
+* **Trix:** Still safely hidden behind Grog. The immediate pursuit has been scared off.
+* **Grog:** Standing in the open, convinced he just protected a sacred plant from thieves.
+* **Silas:** Still observing the scene from the side alley, now seeing his potential rogue lead recruit a gigantic bodyguard.
+* **Threat:** Spike and his thug Jax are gone, but the **Captain and Brute** are still out there, and they are far more dangerous.
+
+### Next Action
+
+Trix has successfully used Grog as a shield. The time to run is now, while the Temple Square is clear. You have Grog's attention and his loyalty (for the moment).
+
+**What is the party's next action?**
+
+1.  **Trix: Consolidate.** Trix whispers to Grog, "Good job, Protector! Now follow me! We have to move the plant to safety!" Lead Grog out of the Temple Square and into a safer, crowded area.
+2.  **Trix: Engage Silas.** Trix whispers to Grog to stay put, and Trix slips away to immediately talk to the Half-Elf Ranger who is still watching from the shadows.
+3.  **Grog: Search.** Grog decides to search the planter for the "sacred plant" he was protecting (a choice Grog's player would make, but Trix needs to act first).
+
+---
+
+Let's go to the innkeeper. I'd like to settle in and take another look at these letters, maybe even ask the Innkeeper what he thinks. Trix offers Grog some food and Grog confirms that he is willing.
+
+---
+
+That is the wisest course of action. The Innkeeper is Trix's only **Bond** and the safest haven in the city. You need to get off the street before the Duke's highly competent agents arrive.
+
+### 1. Consolidating the Party
+
+Trix quickly acts while Grog is still in his protective stance.
+
+> **Trix:** (Whispering up to Grog's massive ear) "Brilliant work, Protector! They're beaten! Now we have to move that sacred plant to a **safe location**."
+
+Grog looks down at the tiny Halfling with satisfied, if slightly dull, eyes.
+
+> **Grog:** (Nodding slowly, rumbling) "Safe. Yes. Protect the plant."
+
+Trix slips out from behind Grog and leads the way, darting through the wide Temple Square and into the network of main streets that lead toward the general area of the Wet Quarter, where the Innkeeper's establishment is likely located.
+
+> **Trix:** "And, uh, once we get there, they have **food**. Really good food. I can definitely get you some food, big guy."
+
+> **Grog:** (His eyes lighting up slightly) "Food. Good."
+
+Grog is now securely in tow, his immediate loyalty secured by the promise of a meal and the continued, vague mission of "protection."
+
+### 2. The Journey to the Inn
+
+As Trix and Grog quickly move away from the dockside districts, a final figure slips from the shadows of the alley—**Silas**.
+
+Silas watches the strange pair—a tiny rogue and a massive half-orc—disappear into the main thoroughfares. He knows the docks are about to be flooded with serious agents. He has seen the letters, the chaos, and now this odd pairing.
+
+Silas, the Investigator, decides that following the chaos is the best way to uncover the truth about his captain's murder and the secret society. He begins to follow Trix and Grog at a distance, using his **Stealth** and **Perception** to remain unseen.
+
+***
+
+### 3. Arrival at the Innkeeper's
+
+Trix leads Grog down several winding, cobblestone streets, eventually arriving in a quieter, slightly older section of the city. You approach a small, unassuming establishment called **"The Bent Mug."** It's late, and the lights are mostly dimmed, but Trix knows the back entrance is always unlocked for him.
+
+You slip through the back door, pulling Grog—who has to duck slightly—inside the warm, quiet kitchen.
+
+The kitchen smells of old spices, warm bread, and a touch of sour ale. A thin, kindly older human woman, the **Innkeeper**, is sitting at a small table, nursing a cup of tea. She looks up, her eyes immediately going wide at the sight of the giant Half-Orc crammed into her kitchen.
+
+> **Innkeeper:** (Whispering, slightly panicked) "Trix! Gods above! What have you brought me this time?"
+
+**Current Situation:**
+
+* **Location:** The safe haven of **The Bent Mug** (Innkeeper's kitchen).
+* **Party:** Trix and Grog (Silas is likely staking out the front alley).
+* **Immediate Needs:** Grog needs food, Trix needs to consult on the letters.
+
+**What does Trix say or do first?**
+
+---
+
+Grog introduces himself politely to the innkeeper. Trix lets her know that he promised him food and that he's saved his butt earlier.
+
+---
+
+This is a crucial social test for the new party dynamic!
+
+The massive Half-Orc, still focused on his mission of protection (and the promise of a meal), turns his immense frame towards the startled Innkeeper.
+
+> **Grog:** (His voice a deep, respectful rumble, trying to be as gentle as possible) "Greetings. My name is Grog. I am protector. And hungry."
+
+Trix steps forward quickly, placing a comforting hand on his friend's arm and addressing the Innkeeper with a reassuring, yet urgent, tone.
+
+> **Trix:** "It's alright, friend. He's good! He's *our* good. I promised him food—the best you have—because he just saved my hide from Spike and his men right in the middle of the square. He's protection, and right now, we desperately need it."
+
+The Innkeeper, used to Trix's wild escapades but still wary of the sheer size of Grog, takes a long, slow breath. Her eyes linger on Grog, assessing the giant's sincerity, before settling on Trix's face. She sees the genuine stress there, and the broken wax seal of the letters Trix is still clutching.
+
+> **Innkeeper:** (Her voice softening) "Very well. A meal for a protector is a small price to pay for your safety, Trix. There's a back table, away from the windows. Sit. Both of you. Quickly."
+
+She points to a corner of the kitchen, near a shadowed pantry. She moves with surprising speed, placing a massive loaf of brown bread, a bowl of stew, and a large mug of ale in front of Grog.
+
+### Safe Haven, For Now
+
+Grog settles down with a sigh of relief that shakes the floorboards, immediately focusing on the food with great enthusiasm. The Innkeeper turns her attention back to Trix, her expression now serious and concerned.
+
+> **Innkeeper:** "Now, what is it you ran off with this time that brings Spike, the City Watch—and that... *giant*—to my door? And why does that seal look like it was attacked by a badger?"
+
+Trix now has the opportunity to brief his trusted ally.
+
+**What is Trix's next action?**
+
+1.  **Briefing:** Trix immediately shows the Innkeeper the shattered letters and explains the plot of the **Shattered Crown**, the **Ivory Tower Mage (Soron)**, and the Duke's involvement.
+2.  **Ask for Help:** Trix explains the situation but asks the Innkeeper if she knows anything about the key terms: **Shattered Crown**, **Ivory Tower Mage**, or the agents of the Duke.
+3.  **Rest & Watch:** Trix tells the Innkeeper that the situation is grave, but insists that he needs a few hours of rest before making any decisions, while Grog keeps watch.
