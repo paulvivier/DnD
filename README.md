@@ -23,7 +23,7 @@
   - Items
   - Overworld
   - Towns
-   - [Silverhaven](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Towns/Silverhaven.md)
+    - [Silverhaven](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Towns/Silverhaven.md)
 - **05 Rules_and_References**
   - ADnD_HouseRules.md
   - Magic_Items_List.md
