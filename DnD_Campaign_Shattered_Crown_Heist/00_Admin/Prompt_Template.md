@@ -15,3 +15,8 @@ I like that Character. Can you flesh out the Personality in the form of : Alignm
 
 
 Part 3 - Get Image
+
+
+
+Map of Silverhaven:
+Give me an image that is a map of Silverhaven please. It can have the Dockside & Wet Quarter, The Merchant District, The Temple District and The Ivory Peaks. Wait 5x times as long if needed.
