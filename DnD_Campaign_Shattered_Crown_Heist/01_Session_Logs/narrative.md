@@ -1,6 +1,8 @@
 # A Wet Job in the Wet Quarter
 An excellent choice for Trix—a quick hit in a sticky situation is exactly where a rogue thrives!
 
+* TOC
+{:toc}
 ***
 
 ## A Wet Job in the Wet Quarter
