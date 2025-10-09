@@ -22,6 +22,7 @@
   - Dungeons
   - Items
     - [The Letters](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Items/TheLetters.md)
+    - [Shattered Crown](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Items/Shattered_Crown.md)
   - Overworld
   - Towns
     - [Silverhaven](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Towns/Silverhaven.md)
