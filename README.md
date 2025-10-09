@@ -21,16 +21,16 @@
 - **04 Maps_and_Visuals**
   - Dungeons
   - Items
-        - [The Letters](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Items/TheLetters)
+    - [The Letters](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Items/TheLetters)
   - Overworld
   - Towns
-        - [Silverhaven](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Towns/Silverhaven.md)
+    - [Silverhaven](DnD_Campaign_Shattered_Crown_Heist/04_Maps_and_Visuals/Towns/Silverhaven.md)
 - **05 Rules_and_References**
   - ADnD_HouseRules.md
   - Magic_Items_List.md
   - QuickRef_Combat_Tables.md
 - **99 Archive**
-      - Old_Characters
-      - Retired_NPCs
-          - Retired_NPCs.md
-      - Unused_Maps
+  - Old_Characters
+  - Retired_NPCs
+    - Retired_NPCs.md
+  - Unused_Maps
